@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Andra-Maria Mihut!
 
-📚 Computer Science & Mathematics Student | Second Year 🖥️
+📚 Graduated Computer Science & Mathematics in July 2025 🖥️
 
 Welcome to my GitHub profile! I'm Andra-Maria Mihut, a curious and diligent student studying computer science and mathematics at Babes-Bolyai University. My passion for problem-solving and learning drives me to explore various programming languages and concepts.
 
