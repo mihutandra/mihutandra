@@ -2,7 +2,7 @@
 
 📚 Graduated Computer Science & Mathematics in July 2025 🖥️
 
-Welcome to my GitHub profile! I'm Andra-Maria Mihut, a curious and diligent student at Babes-Bolyai University, pursuing a Master's Degree in CyberSecurity. My passion for problem-solving and learning drives me to explore various programming languages and concepts.
+Welcome to my GitHub profile! I'm Andra-Maria Mihut, a curious Junior Developer and a diligent student at Babes-Bolyai University, pursuing a Master's Degree in CyberSecurity. My passion for problem-solving and learning drives me to explore various programming languages and concepts.
 
 ## 💻 What you'll find here:
 
