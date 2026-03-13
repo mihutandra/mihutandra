@@ -31,5 +31,6 @@ Thank you for your attention!!
 [![C++](https://img.shields.io/badge/-C++-blueviolet?style=flat-square&logo=c%2B%2B&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/-SQL-purple?style=flat-square&logo=mysql&logoColor=white)]()
 [![Assembly](https://img.shields.io/badge/-Assembly-darkgreen?style=flat-square&logo=assembly&logoColor=white)]()
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)]()
