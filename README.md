@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Andra-Maria Mihut, a curious Junior Developer 
 - **Python:** Leveraging its versatility for scripting and data analysis.
 - **C++:** Exploring algorithms and data structures for efficient solutions.
 - **SQL:** Designing databases for scalable and efficient data management.
-- **Web Development:** Dabbling in HTML, CSS, for frontend projects.
+- **Web Development:** Dabbling in React, React Native, HTML, CSS, for frontend projects.
 - **Mathematics:** Applying mathematical concepts to optimize algorithms and solve complex problems.
 - **Tutoring:** Sharing my knowledge and passion for computer science and mathematics through tutoring sessions.
 
